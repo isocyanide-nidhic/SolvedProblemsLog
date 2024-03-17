@@ -9,4 +9,3 @@ https://www.codingninjas.com/studio/profile/nidhic
 https://www.hackerrank.com/profile/nchat2002
 ## Linkedin :
 https://www.linkedin.com/in/nidhi-umesh-charate/
-(documenting my problem solving journey)
